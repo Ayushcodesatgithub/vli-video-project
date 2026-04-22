@@ -3,3 +3,7 @@ The system follows a modular RAG (Retrieval-Augmented Generation) architecture t
 <p align="center">
   <img src="asset/app1.png" width="600"/>
 </p>
+
+<p align="center">
+  <img src="asset/app2.png" width="600"/>
+</p>
